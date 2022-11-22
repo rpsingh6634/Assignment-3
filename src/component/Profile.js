@@ -5,9 +5,9 @@ const Profile = () => {
         <div>
             <h1>Ravindra Pratap Singh</h1>
             <p>FrontEnd Developer, Student at Geekster</p>
-            <a href="">LinkedIn</a>
+            <a href="/">LinkedIn</a>
             &nbsp;&nbsp;
-            <a href="">Github</a>
+            <a href="/">Github</a>
            <hr/>
         </div>
     )
